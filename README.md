@@ -1,6 +1,6 @@
 <!-- Simeon Kolchin · profile README -->
 <a href="https://github.com/simeonkolchin">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:1E90FF&height=200&section=header&text=Simeon%20Kolchin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20ML%20Engineer%20%40%20MTS%20MWS&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:1E90FF&height=200&section=header&text=Simeon%20Kolchin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%40%20MTS%20MWS&descSize=20&descAlignY=60" width="100%"/>
 </a>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40simeonkolchin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/simeonkolchin)
+[![Telegram](https://img.shields.io/badge/Telegram-%40simeon__kolchin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/simeon_kolchin)
 [![Email](https://img.shields.io/badge/work%40ksimeon.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@ksimeon.ru)
 [![Website](https://img.shields.io/badge/tgreels.ru-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tgreels.ru)
 ![Profile views](https://komarev.com/ghpvc/?username=simeonkolchin&style=for-the-badge&color=6e56cf&label=VIEWS)
