@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=6E56CF&center=true&vCenter=true&width=680&lines=Multi-agent+AI+systems+%E2%9A%A1+RAG+%E2%9A%A1+Graph+ML+%E2%9A%A1+CV;15+ML+solutions+shipped+to+production;I+ship+products%2C+not+just+notebooks" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=6E56CF&center=true&vCenter=true&width=680&lines=Multi-agent+AI+systems+%E2%9A%A1+RAG+%E2%9A%A1+Graph+ML+%E2%9A%A1+CV;25%2B+ML+%26+backend+solutions+in+production;I+ship+products%2C+not+just+notebooks" alt="typing" />
 
 <br/>
 
@@ -23,9 +23,7 @@
 ```yaml
 name:      Simeon Kolchin
 role:      ML Engineer @ MTS MWS
-focus:     Multi-agent AI · RAG · Graph ML · Computer Vision
-building:  LLM agents (MCP, LangChain) · end-to-end ML pipelines
-shipped:   15 ML solutions to production · prizes at 6 hackathons
+shipped:   25+ ML & backend solutions to production · prizes at 6 hackathons
 education: HSE FCS — Applied Math & Informatics (AMI)
 lyceum:    Sirius Presidential Lyceum · Yandex Lyceum (honors)
 ```
