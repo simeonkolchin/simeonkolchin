@@ -1,11 +1,11 @@
 <!-- Simeon Kolchin · profile README -->
 <a href="https://github.com/simeonkolchin">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:1E90FF&height=200&section=header&text=Simeon%20Kolchin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20ML%20Developer%20%40%20MTS%20MWS&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:1E90FF&height=200&section=header&text=Simeon%20Kolchin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%D0%92%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20ML-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%40%20MTS%20MWS&descSize=20&descAlignY=60" width="100%"/>
 </a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=6E56CF&center=true&vCenter=true&width=650&lines=AI+%2F+LLM+agents+%E2%9A%A1+ML+systems+%E2%9A%A1+Backend;Lead+ML+Developer+%40+MTS+MWS;I+ship+products%2C+not+just+notebooks" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=6E56CF&center=true&vCenter=true&width=650&lines=AI+%2F+LLM+agents+%E2%9A%A1+ML+systems+%E2%9A%A1+Backend;%D0%92%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9+ML-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%40+MTS+MWS;I+ship+products%2C+not+just+notebooks" alt="typing" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ```yaml
 name:        Simeon Kolchin
-role:        Lead ML Developer @ MTS MWS
+role:        Ведущий ML-инженер @ MTS MWS
 previously:  Venture fund "Daily Challenge"
 shipped for: Sberbank · Ontorix · Placebo · and other large companies
 education:   HSE — CS, Applied Math & Informatics (AMI)
