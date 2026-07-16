@@ -20,7 +20,7 @@
 
 ## 👋 About me
 
-**ML Engineer** who ships end-to-end — from **classic ML & deep learning** to **LLM / multi-agent systems** — and the **backend, full-stack and MLOps** that put them in production. I've built and deployed **25+ ML & backend solutions to prod**: multi-agent AI (MCP), RAG (Weaviate), graph-ML and computer vision (YOLOv8, MediaPipe), plus recommender & forecasting pipelines — with the FastAPI services, model fine-tuning, infra and CI/CD behind them.
+**ML Engineer** who ships end-to-end — turning ideas and research into products that actually run in production. I work across the whole stack: **classic ML and modern AI/LLM systems**, the **backend and infrastructure** around them, and the **MLOps** that keeps them live. My focus is real impact in prod, not demos in a notebook — **25+ ML & backend solutions built and deployed.**
 
 ## 🏆 Highlights
 
