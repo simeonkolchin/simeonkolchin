@@ -1,11 +1,11 @@
 <!-- Simeon Kolchin · profile README -->
 <a href="https://github.com/simeonkolchin">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:1E90FF&height=200&section=header&text=Simeon%20Kolchin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%D0%92%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9%20ML-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%40%20MTS%20MWS&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:1E90FF&height=200&section=header&text=Simeon%20Kolchin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20ML%20Engineer%20%40%20MTS%20MWS&descSize=20&descAlignY=60" width="100%"/>
 </a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=6E56CF&center=true&vCenter=true&width=650&lines=AI+%2F+LLM+agents+%E2%9A%A1+ML+systems+%E2%9A%A1+Backend;%D0%92%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9+ML-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%40+MTS+MWS;I+ship+products%2C+not+just+notebooks" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=6E56CF&center=true&vCenter=true&width=650&lines=AI+%2F+LLM+agents+%E2%9A%A1+ML+systems+%E2%9A%A1+Backend;Senior+ML+Engineer+%40+MTS+MWS;I+ship+products%2C+not+just+notebooks" alt="typing" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ```yaml
 name:        Simeon Kolchin
-role:        Ведущий ML-инженер @ MTS MWS
+role:        Senior ML Engineer @ MTS MWS
 previously:  Venture fund "Daily Challenge"
 shipped for: Sberbank · Ontorix · Placebo · and other large companies
 education:   HSE — CS, Applied Math & Informatics (AMI)
@@ -42,16 +42,6 @@ focus:       AI/LLM agents · ML/DS · Backend (Python) · Full-stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-## 🚀 Featured Projects
-
-| Project | What it is |
-|---|---|
-| [**tgreels**](https://github.com/simeonkolchin/tgreels) · [tgreels.ru](https://tgreels.ru) | Vertical video feed that uses Telegram as its storage backend |
-| [**ai-assistant**](https://github.com/simeonkolchin/ai-assistant) | Self-hosted AI agent — any LLM, acts on your calendar, Telegram & the web |
-| [**rl-from-scratch-numpy**](https://github.com/simeonkolchin/rl-from-scratch-numpy) | Reinforcement learning from scratch in pure NumPy |
-| [**logo-error-checker**](https://github.com/simeonkolchin/logo-error-checker) | Multi-model CV pipeline (YOLO + ONNX + OCR) with API, bot & Streamlit |
-| [**telegram-parser-api**](https://github.com/simeonkolchin/telegram-parser-api) | Async Telegram content-mining API with LLM enrichment |
 
 <div align="center">
 <sub>⚡ Building AI products end-to-end · always shipping</sub>
