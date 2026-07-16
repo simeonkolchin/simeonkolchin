@@ -20,16 +20,18 @@
 
 ## 👋 About me
 
-**ML Engineer** who ships end-to-end — from **classic ML & deep learning** to **LLM / multi-agent systems**, plus the **backend, full-stack and MLOps** that take them to production. I build, fine-tune and **deploy models to prod** (RAG, CV, recommender & forecasting pipelines) and own the **FastAPI services, infra and CI/CD** that run them.
+**ML Engineer** who ships end-to-end — from **classic ML & deep learning** to **LLM / multi-agent systems** — and the **backend, full-stack and MLOps** that put them in production. I've built and deployed **25+ ML & backend solutions to prod**: multi-agent AI (MCP), RAG (Weaviate), graph-ML and computer vision (YOLOv8, MediaPipe), plus recommender & forecasting pipelines — with the FastAPI services, model fine-tuning, infra and CI/CD behind them.
 
-```yaml
-name:      Simeon Kolchin
-role:      ML Engineer @ MTS MWS
-shipped:   25+ ML & backend solutions to production · prizes at 6 hackathons
-stack:     Classic ML · DL · LLM agents · CV · Backend · Full-stack · MLOps
-education: HSE FCS — Applied Math & Informatics (AMI)
-lyceum:    Sirius Presidential Lyceum · Yandex Lyceum (honors)
-```
+## 🏆 Highlights
+
+- 🥇 Prizes at **6 hackathons** — for MTS, MWS, Sberbank, Tatneft, BoTann
+- **AI for GTO** (Sberbank coursework) — pose tracking (MediaPipe / MMPose / YOLOv8), rep counters, technique scoring
+- **«Цифровой прорыв» 2024** — sales-forecasting prize (CatBoost, SHAP, seasonality)
+
+## 🎓 Education
+
+- **HSE — Faculty of Computer Science**, Applied Math & Informatics · 2023–2027
+- **Sirius Presidential Lyceum** (eng-math) · 2021–2023 — **Yandex Lyceum** Python (honors)
 
 ## 🛠 Tech Stack
 
