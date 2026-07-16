@@ -43,26 +43,15 @@ focus:       AI/LLM agents · ML/DS · Backend (Python) · Full-stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-## 📊 GitHub Dashboard
+## 🚀 Featured Projects
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=simeonkolchin&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=6E56CF&icon_color=1E90FF" />
-<img height="165" src="https://streak-stats.demolab.com?user=simeonkolchin&theme=tokyonight&hide_border=true&stroke=6E56CF&ring=6E56CF&fire=1E90FF&currStreakLabel=6E56CF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simeonkolchin&theme=tokyo-night&hide_border=true&color=6E56CF&line=1E90FF&point=ffffff&area=true" width="98%" />
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeonkolchin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=6E56CF" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=simeonkolchin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%" />
-
-</div>
+| Project | What it is |
+|---|---|
+| [**tgreels**](https://github.com/simeonkolchin/tgreels) · [tgreels.ru](https://tgreels.ru) | Vertical video feed that uses Telegram as its storage backend |
+| [**ai-assistant**](https://github.com/simeonkolchin/ai-assistant) | Self-hosted AI agent — any LLM, acts on your calendar, Telegram & the web |
+| [**rl-from-scratch-numpy**](https://github.com/simeonkolchin/rl-from-scratch-numpy) | Reinforcement learning from scratch in pure NumPy |
+| [**logo-error-checker**](https://github.com/simeonkolchin/logo-error-checker) | Multi-model CV pipeline (YOLO + ONNX + OCR) with API, bot & Streamlit |
+| [**telegram-parser-api**](https://github.com/simeonkolchin/telegram-parser-api) | Async Telegram content-mining API with LLM enrichment |
 
 <div align="center">
 <sub>⚡ Building AI products end-to-end · always shipping</sub>
