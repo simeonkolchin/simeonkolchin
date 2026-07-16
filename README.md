@@ -20,10 +20,13 @@
 
 ## 👋 About me
 
+**ML Engineer** who ships end-to-end — from **classic ML & deep learning** to **LLM / multi-agent systems**, plus the **backend, full-stack and MLOps** that take them to production. I build, fine-tune and **deploy models to prod** (RAG, CV, recommender & forecasting pipelines) and own the **FastAPI services, infra and CI/CD** that run them.
+
 ```yaml
 name:      Simeon Kolchin
 role:      ML Engineer @ MTS MWS
 shipped:   25+ ML & backend solutions to production · prizes at 6 hackathons
+stack:     Classic ML · DL · LLM agents · CV · Backend · Full-stack · MLOps
 education: HSE FCS — Applied Math & Informatics (AMI)
 lyceum:    Sirius Presidential Lyceum · Yandex Lyceum (honors)
 ```
@@ -52,6 +55,9 @@ lyceum:    Sirius Presidential Lyceum · Yandex Lyceum (honors)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
