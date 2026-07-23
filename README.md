@@ -1,6 +1,6 @@
 <!-- Simeon Kolchin · profile README -->
 <a href="https://github.com/simeonkolchin">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:1E90FF&height=200&section=header&text=Simeon%20Kolchin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%40%20MTS%20MWS&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:1E90FF&height=200&section=header&text=Simeon%20Kolchin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ведущий%20Разработчик,%20MLE%20%20%40%20MTS%20MWS&descSize=20&descAlignY=60" width="100%"/>
 </a>
 
 <div align="center">
