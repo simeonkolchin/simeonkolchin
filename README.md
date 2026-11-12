@@ -4,6 +4,8 @@ Lead ML Engineer building production AI systems.
 
 At MTS, I lead ML initiatives within DevSecOps AI, from the technical roadmap and architecture to production delivery. I build LLM agents, RAG systems, MCP integrations and evaluation pipelines. I also run self-hosted LLMs, fine-tune domain models and train task-specific classification heads.
 
+Previously, I worked part-time as a Lead ML Engineer at Robolance (Apr 2025–Jul 2026), building multi-agent analytics, AI recruiting, and coding agents.
+
 My background includes classical ML, NLP and classification pipelines, from dataset preparation and training through evaluation and deployment. I’ve delivered AI products used by hundreds of employees and previously managed a team of 12 developers.
 
 ### Tech stack
