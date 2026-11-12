@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 84">
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%">
+      <stop stop-color="#111c30"/>
+      <stop offset="1" stop-color="#172a41"/>
+    </linearGradient>
+    <linearGradient id="signal">
+      <stop stop-color="#7693df"/>
+      <stop offset="1" stop-color="#7ee4d5"/>
+    </linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#bacbe3" opacity=".09"/>
+    </pattern>
+    <clipPath id="frame"><rect width="880" height="84" rx="10"/></clipPath>
+  </defs>
+  <style>
+    @keyframes trace {
+      0% { stroke-dashoffset: 1000; opacity: .8; }
+      68% { stroke-dashoffset: 0; opacity: .8; }
+      100% { stroke-dashoffset: 0; opacity: 0; }
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .trace { animation: trace 3.4s ease-out both; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="880" height="84" fill="url(#background)"/>
+    <rect width="880" height="84" fill="url(#grid)"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-10 27H128L175 55H315L366 27H490L541 55H701L753 27H890" stroke="#7089aa" opacity=".45"/>
+      <path d="M-10 60H128L175 31H315L366 60H490L541 31H701L753 60H890" stroke="url(#signal)" stroke-width="1.5" opacity=".68"/>
+      <path class="trace" d="M-10 60H128L175 31H315L366 60H490L541 31H701L753 60H890" stroke="url(#signal)" stroke-width="3" stroke-dasharray="1000" opacity="0"/>
+    </g>
+    <g fill="#a6e7df">
+      <circle cx="175" cy="31" r="2.8"/>
+      <circle cx="366" cy="60" r="2.8"/>
+      <circle cx="541" cy="31" r="2.8"/>
+      <circle cx="753" cy="60" r="2.8"/>
+    </g>
+  </g>
+</svg>
